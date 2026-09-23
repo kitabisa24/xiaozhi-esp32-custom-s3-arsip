@@ -46,10 +46,10 @@ GPIO18 → Relay 1 → Kipas
 Perintah suara:
 
 ```text
-"Xiaozhi, nyalakan lampu."
-"Xiaozhi, matikan lampu."
-"Xiaozhi, apakah lampu menyala?"
-"Xiaozhi, status lampu."
+"Jarvis, nyalakan lampu."
+"Jarvis, matikan lampu."
+"Jarvis, apakah lampu menyala?"
+"Jarvis, status lampu."
 ```
 
 Hubungan:
