@@ -12,6 +12,7 @@ Project ini mengembangkan Xiaozhi menjadi perangkat smart-home sederhana:
 - 🔊 MAX98357A → Audio output
 - 🖥️ SSD1306 128x64 → Display
 - 📶 Wi-Fi + server Xiaozhi
+- wake word: Hi, Jarvis
 - 🇮🇩 Bahasa Indonesia
 - 🗂️ Startup logo **ARSIP — Created by Arsiparis**
 
@@ -28,10 +29,10 @@ Project ini mengembangkan Xiaozhi menjadi perangkat smart-home sederhana:
 Perintah suara:
 
 ```text
-"Xiaozhi, nyalakan kipas."
-"Xiaozhi, matikan kipas."
-"Xiaozhi, apakah kipas menyala?"
-"Xiaozhi, status kipas."
+"Jarvis, nyalakan kipas."
+"Jarvis, matikan kipas."
+"Jarvis, apakah kipas menyala?"
+"Jarvis, status kipas."
 ```
 
 Hubungan:
